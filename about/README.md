@@ -17,9 +17,9 @@
 
 #### Contacts:
 
-- ##### LinkedIn: [ak4m410x01](linkedin.com/in/ak4m410x01)
-- ##### Github: [ak4m410x01](github.com/ak4m410x01)
-- ##### Telegram: [ak4m410x01](t.me/ak4m410x01)
+- ##### LinkedIn: [ak4m410x01](https://www.linkedin.com/in/ak4m410x01/)
+- ##### Github: [ak4m410x01](https://github.com/ak4m410x01/)
+- ##### Telegram: [ak4m410x01](https://t.me/ak4m410x01)
 
 ---
 
