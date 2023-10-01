@@ -79,8 +79,8 @@ _A Type 2 or hosted hypervisor is a virtualization software installed on top of 
 - ISO Image
   - [CentOS](https://centos.spd.co.il/7.9.2009/isos/x86_64/)
 
-    <br />
-    <img src="./assets/images/centos_iso_image.jpg" width="60%"/>
+<br />
+<img src="./assets/images/centos_iso_image.jpg" width="60%"/>
 
 ### Install CentOS on VMware using CLI wizard
 
