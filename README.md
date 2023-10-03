@@ -1,5 +1,9 @@
 # ATH3R_L1NUX_B00TC4MP
 
+<div align="center">
+  <img src="./assets/images/I_Love_Linux.jpg" width="40%">
+</div>
+
 ## Outlines
 
 - #### [OS History](./OS_History/README.md)
