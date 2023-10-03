@@ -31,3 +31,23 @@
 <div align="center">
     <img src="./assets/images/open_source_vs_closed_source_examples.png">
 </div>
+
+---
+
+# Operating System
+
+**_An operating system (OS) is system software that manages computer hardware and software resources, and provides common services for computer programs._**
+
+<br />
+
+<div align="center">
+    <img src="./assets/images/operating_system_placement.png">
+</div>
+
+### Operating System Layers
+
+<br />
+
+<div align="center">
+    <img src="./assets/images/operating_system_structure.png" width="60%">
+</div>
