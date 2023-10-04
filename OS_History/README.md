@@ -378,3 +378,53 @@ GNU/Linux Not Linux only
     <img src="./assets/images/linus_torvaldos1.jpg" width="50.7%">
     <img src="./assets/images/kill-command-on-linux.jpg" width="91.5%">
 </div>
+
+---
+
+<!-- <p style="font-size: 20px;font-weight: bold;"> -->
+
+## Linux Distros
+
+1. Red Hat
+   1. RHEL
+      1. CentOS
+      2. Scientific Linux
+         1. Heli OS
+   2. Fedora
+      1. Fedora Server
+      2. Fedora Workstation
+
+---
+
+2. Suse Linux
+   1. SLES [Suse Linux Enterprise Server]
+   2. Open Suse
+
+---
+
+3. Debian
+   1. Ubuntu
+      1. Ubuntu Server
+      2. Ubuntu Desktop
+      3. Linux Mint
+      4. Parrot Security
+   2. Kali Linux
+
+---
+
+5. Arch Linux
+   1. Arch linux
+   2. Manjaro
+   3. Black Arch
+
+---
+
+<div align="center">
+    <img src="./assets/images/os_family_tree.png" width="100%">
+</div>
+
+---
+
+<div align="center">
+    <img src="./assets/images/Linux_distros_tree.png" width="100%">
+</div>
