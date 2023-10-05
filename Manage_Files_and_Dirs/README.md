@@ -130,3 +130,7 @@ mv dir_name new_dir_name
 - **ctrl + l** ====> to clear your screen
 - **ctrl + c** ====> to kill any proccess
 - **ctrl + d** ====> to exit
+
+---
+
+Author: Marwan Ali
