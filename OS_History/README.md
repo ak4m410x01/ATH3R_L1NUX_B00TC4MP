@@ -1,4 +1,18 @@
-# Project Source Code
+# OS History
+
+### Outlines:
+
+##### 1. Open Source & Closed Source
+
+##### 2. Operating System Difinition & Layers
+
+##### 3. History
+
+##### 4. Linux Distros
+
+---
+
+## Project Source Code
 
 - ### Open Source
   _Open source software is software with source code that anyone can inspect, modify, and enhance._
