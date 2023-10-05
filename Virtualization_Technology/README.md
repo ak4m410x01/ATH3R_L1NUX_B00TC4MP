@@ -1,6 +1,20 @@
 # Virtualization Technology
 
-Virtualization is a technology that helps us to install different Operating Systems on a hardware. They are completely separated and independent from each other. In Wikipedia, you can find the definition as – “In computing, virtualization is a broad term that refers to the abstraction of computer resources.
+### Outlines:
+
+##### 1. Virtualization Technology
+
+##### 2. Hypervisor Type 1 & 2
+
+##### 3. Linux Installation CLI
+
+##### 4. Linux Installation GUI
+
+---
+
+## 1. Virtualization Technology
+
+**_Virtualization is a technology that helps us to install different Operating Systems on a hardware. They are completely separated and independent from each other. In Wikipedia, you can find the definition as – “In computing, virtualization is a broad term that refers to the abstraction of computer resources._**
 
 <div align="center">
     <img src="./assets/images/bare-metal-server-en.png" width="80%">
@@ -11,9 +25,11 @@ Virtualization is a technology that helps us to install different Operating Syst
 - The creation of many virtual resources from one physical resource.
 - The creation of one virtual resource from one or more physical resource.
 
-## Virtualization Types of installation
+---
 
-### Type 1 Virtualization
+## 2. Hypervisor Type 1 & 2
+
+### Type 1 Hypervisors
 
 _Type 1 or bare-metal hypervisor is a virtualization software used to create virtual machines on top of the computer hardware. Direct hardware installation allows Type 1 hypervisors to be fast, efficient, and have better security when compared to a Type 2 hypervisor._
 
@@ -30,7 +46,7 @@ _Type 1 or bare-metal hypervisor is a virtualization software used to create vir
 
 ---
 
-### Type 2 Virtualization
+### Type 2 Hypervisors
 
 _A Type 2 or hosted hypervisor is a virtualization software installed on top of the host operating system that supports virtualization. Since it works on top of an operating system, Type 2 hypervisors are not as fast, efficient, or secure as Type 1 hypervisors. They are, however, sufficient for various Type 2 hypervisor applications, like using a virtual machine to test a new operating system._
 
@@ -82,11 +98,15 @@ _A Type 2 or hosted hypervisor is a virtualization software installed on top of 
 <br />
 <img src="./assets/images/centos_iso_image.jpg" width="60%"/>
 
-### Install CentOS on VMware using CLI wizard
+---
+
+## 3. Linux Installation CLI wizard
 
 **_Demo_**
 
-### Install CentOS on VMware using GUI wizard
+---
+
+## 3. Linux Installation GUI wizard
 
 **_Demo_**
 
