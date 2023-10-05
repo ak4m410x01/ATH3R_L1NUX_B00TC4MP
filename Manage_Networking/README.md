@@ -3,7 +3,7 @@
 
 ## 1. network componenet 
  <div align="center">
-   <img src="/assets/images/homeNetwork.png" width="80%">
+   <img src="assets/images/homeNetwork.png" width="80%">
  </div>
 
 ### 1.1  what is IP address
