@@ -12,7 +12,7 @@
 
 ---
 
-## Project Source Code
+## 1. Open Source & Closed Source
 
 - ### Open Source
   _Open source software is software with source code that anyone can inspect, modify, and enhance._
@@ -48,7 +48,7 @@
 
 ---
 
-# Operating System
+## 2. Operating System Difinition & Layers
 
 **_An operating system (OS) is system software that manages computer hardware and software resources, and provides common services for computer programs._**
 
@@ -68,7 +68,7 @@
 
 ---
 
-# OS History
+## 3. OS History
 
 ### Before 1964
 
@@ -395,9 +395,7 @@ GNU/Linux Not Linux only
 
 ---
 
-<!-- <p style="font-size: 20px;font-weight: bold;"> -->
-
-## Linux Distros
+## 4. Linux Distros
 
 1. Red Hat
    1. RHEL
