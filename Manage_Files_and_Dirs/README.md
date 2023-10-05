@@ -1,6 +1,16 @@
 # Files and Directories
 
-first we must know how we can **navigate** between _Dirs_
+### Outlines:
+
+##### 1. Operation like copy, move, create, delete and so on...
+
+##### 2. Operation on Files
+
+##### 3. Operation on Dirs
+
+---
+
+**first we must know how we can **navigate** between _Dirs_**
 
 ## To navegate between dirs
 

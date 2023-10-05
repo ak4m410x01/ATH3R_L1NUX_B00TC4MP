@@ -1,5 +1,15 @@
 # text editors
 
+### Outlines:
+
+##### 1. nano
+
+##### 2. vi
+
+##### 3. vim
+
+---
+
 **To create a text file**
 
 ```
