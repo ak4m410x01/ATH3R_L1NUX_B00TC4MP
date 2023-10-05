@@ -1,5 +1,5 @@
 # OpenSSH 
-![image1](./SSH.jpg)
+![image1](assets/images/SSH.jpg)
 
 <br/>
 
@@ -10,14 +10,14 @@
 
 <br/>
 
-![image2](01.png)
-![image3](02.png)
-![image4](03.png)
-![image5](04.png)
-![image6](06.png)
-![image7](07.png)
-![image8](08.png)
-![image9](10.png)
+![image2](assets/images/01.png)
+![image3](assets/images/02.png)
+![image4](assets/images/03.png)
+![image5](assets/images/04.png)
+![image6](assets/images/06.png)
+![image7](assets/images/07.png)
+![image8](assets/images/08.png)
+![image9](assets/images/10.png)
 
 ## How To Create SSH Key
  SSH keys should be generated on the computer you wish to log in from. This is usually your local machine
