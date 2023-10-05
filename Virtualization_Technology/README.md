@@ -89,3 +89,9 @@ _A Type 2 or hosted hypervisor is a virtualization software installed on top of 
 ### Install CentOS on VMware using GUI wizard
 
 **_Demo_**
+
+---
+
+<br />
+
+### [outlines](../README.md)

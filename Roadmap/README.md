@@ -30,6 +30,10 @@
 
 #### => Total Sessions: 13 Session
 
+<br />
+
+#### [outlines](../README.md)
+
 ---
 
 ### Sessions Per Week:

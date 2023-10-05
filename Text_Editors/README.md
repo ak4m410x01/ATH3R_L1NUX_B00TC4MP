@@ -63,6 +63,10 @@ tail -n file_name
 
 ![Alt text](./assets/images/tail.png)
 
+<br />
+
+### [outlines](../README.md)
+
 ---
 
 Author: Marwan Ali

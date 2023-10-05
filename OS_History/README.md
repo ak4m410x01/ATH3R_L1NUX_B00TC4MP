@@ -428,3 +428,9 @@ GNU/Linux Not Linux only
 <div align="center">
     <img src="./assets/images/Linux_distros_tree.png" width="100%">
 </div>
+
+---
+
+<br />
+
+### [outlines](../README.md)

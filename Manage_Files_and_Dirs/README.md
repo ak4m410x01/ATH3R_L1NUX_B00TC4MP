@@ -131,6 +131,10 @@ mv dir_name new_dir_name
 - **ctrl + c** ====> to kill any proccess
 - **ctrl + d** ====> to exit
 
+<br />
+
+### [outlines](../README.md)
+
 ---
 
 Author: Marwan Ali
