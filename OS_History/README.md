@@ -443,6 +443,14 @@ GNU/Linux Not Linux only
 
 ---
 
+## CLI vs GUI
+
+<div align="center">
+    <img src="./assets/images/CLI_vs_GUI.jpg" width="100%">
+</div>
+
+---
+
 <br />
 
 ### [outlines](../README.md)
