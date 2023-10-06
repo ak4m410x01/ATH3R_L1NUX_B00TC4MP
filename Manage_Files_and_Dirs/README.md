@@ -144,7 +144,3 @@ mv dir_name new_dir_name
 <br />
 
 ### [outlines](../README.md)
-
----
-
-Author: Marwan Ali

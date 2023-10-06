@@ -76,7 +76,3 @@ tail -n file_name
 <br />
 
 ### [outlines](../README.md)
-
----
-
-Author: Marwan Ali
