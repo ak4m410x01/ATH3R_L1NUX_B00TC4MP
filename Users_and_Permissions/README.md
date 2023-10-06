@@ -4,6 +4,7 @@ Descibe and define linux users and groups administration and descibe how set lin
 -->
 
 ##Users and Permissions
+
 ##Users:
 **there are three types of users:**
 
@@ -21,6 +22,7 @@ Descibe and define linux users and groups administration and descibe how set lin
    A normal user in Linux refers to a user account that does not have administrative privileges or root access. It is typically created for regular users to perform everyday tasks and access resources on the system. Normal users have limited permissions and can only modify their own files and directories, as well as run certain commands and programs that are allowed for their user group. The purpose of creating normal user accounts is to enhance security by preventing accidental or unauthorized modifications to critical system files and configurations. And there id is greater than or equal to 1000
 
 ###Adding And Deleting Users:
+
 **-adding user name:**
 
 ```
@@ -80,6 +82,7 @@ Descibe and define linux users and groups administration and descibe how set lin
 ---
 
 ##Groups
+
 **The group** is a logical collection of users that have certain permissions and privileges to access files, directories, and execute programs. Groups serve as a way to organize and manage users and their access levels.
 
 - user can be member in one or more secondary group but he has only praimary group
@@ -150,6 +153,7 @@ G->For secondary group
 ---
 
 #Permissions
+
 **permissions** are a set of rules that determine who can access or modify files and directories. Permissions are crucial for maintaining security and preventing unauthorized access to sensitive data.
 
 **There are three types of permissions in Linux:**
@@ -196,7 +200,9 @@ G->For secondary group
 
 ##How To Change Permissions
 
+
 **We change permissions using `chmod` command**
+
 
 ####Symbolic method:
 
@@ -273,6 +279,7 @@ G->For secondary group
 ---
 
 ####Numeric method:
+
 **Numeric permissions** in Linux refer to permissions represented by numbers instead of letters
 ![image](photos/num_per.png)
 -To calculate the numeric permission for a file or directory, you add the values of the desired permissions. For example, if you want to assign read and write permissions to the owner and group, but only read permission to others, you would add the respective values:
@@ -310,6 +317,7 @@ So the numeric permission for this file or directory would be 664.
 ---
 
 ###Changing The Ownership Of File Or Dir
+
 -To change ownership
 
 ```
