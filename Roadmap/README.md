@@ -38,7 +38,7 @@
 
 ### Sessions Per Week:
 
-##### => 2 Days per week [Monday, Wednesday]
+##### => 1 Day per week [Monday]
 
 ---
 
