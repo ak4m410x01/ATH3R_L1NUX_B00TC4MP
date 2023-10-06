@@ -41,18 +41,18 @@
 
 - here are some options we use with the `find` command :
 
-|Option| Description                                               |
-|----------|-------------------------------------------------------|
-|**-type** | Find files and directories of a specific type.        |
-|**-name** | Find files and directories by name.                   |
-|**-iname**| Find files and directories by name (case-insensitive).|
-|**-size** | Find files and directories by size.                   |
-|**-user** | Find files and directories by their username.         |
-|**-group**| Find files and directories by their group name.       |
-|**-inum** | Find files and directories by their inode number.     |
-|**-perm** | Find files and directories by its permission.         |
+| Option     | Description                                            |
+| ---------- | ------------------------------------------------------ |
+| **-type**  | Find files and directories of a specific type.         |
+| **-name**  | Find files and directories by name.                    |
+| **-iname** | Find files and directories by name (case-insensitive). |
+| **-size**  | Find files and directories by size.                    |
+| **-user**  | Find files and directories by their username.          |
+| **-group** | Find files and directories by their group name.        |
+| **-inum**  | Find files and directories by their inode number.      |
+| **-perm**  | Find files and directories by its permission.          |
 
-___
+---
 
 # Filtering in Linux
 
@@ -61,7 +61,7 @@ ___
 </div>
 <br/><br/>
 
-### Grep 
+### Grep
 
 - The `grep` command is a convenient utility we use to search for **text in files**. <br/><br/>
 
@@ -75,9 +75,15 @@ ___
 
 - here are some options we use with the `grep` command :
 
-|Option  | Description                                                    |
-|--------|----------------------------------------------------------------|
+| Option | Description                                                    |
+| ------ | -------------------------------------------------------------- |
 | **-i** | Forgets about case sensitivity.                                |
 | **-v** | Return all lines which don't match the pattern .(inverse)      |
 | **-n** | Show the line numbers of the matches.                          |
 | **-R** | Search for words in a directory or group of files. (recursive) |
+
+---
+
+<br />
+
+### [outlines](../README.md)
