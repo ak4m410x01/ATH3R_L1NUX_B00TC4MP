@@ -3,9 +3,9 @@
 Descibe and define linux users and groups administration and descibe how set linux file system permissions on files and dirs.
 -->
 
-##Users and Permissions
+## Users and Permissions
 
-##Users:
+## Users:
 **there are three types of users:**
 
 1. **Root user**:
@@ -21,12 +21,12 @@ Descibe and define linux users and groups administration and descibe how set lin
 1. **Normal users:**
    A normal user in Linux refers to a user account that does not have administrative privileges or root access. It is typically created for regular users to perform everyday tasks and access resources on the system. Normal users have limited permissions and can only modify their own files and directories, as well as run certain commands and programs that are allowed for their user group. The purpose of creating normal user accounts is to enhance security by preventing accidental or unauthorized modifications to critical system files and configurations. And there id is greater than or equal to 1000
 
-###Adding And Deleting Users:
+### Adding And Deleting Users:
 
 **-adding user name:**
 
 ```
-#useradd username
+# useradd username
 ```
 
 ![image0](<photos/Screenshot 2023-10-03 001629.png>)
@@ -81,7 +81,7 @@ Descibe and define linux users and groups administration and descibe how set lin
 
 ---
 
-##Groups
+## Groups
 
 **The group** is a logical collection of users that have certain permissions and privileges to access files, directories, and execute programs. Groups serve as a way to organize and manage users and their access levels.
 
@@ -152,7 +152,7 @@ G->For secondary group
 
 ---
 
-#Permissions
+# Permissions
 
 **permissions** are a set of rules that determine who can access or modify files and directories. Permissions are crucial for maintaining security and preventing unauthorized access to sensitive data.
 
@@ -198,13 +198,13 @@ G->For secondary group
 
 ---
 
-##How To Change Permissions
+## How To Change Permissions
 
 
 **We change permissions using `chmod` command**
 
 
-####Symbolic method:
+#### Symbolic method:
 
 - To add permisssons to user or group or others or all
 
@@ -278,7 +278,7 @@ G->For secondary group
 
 ---
 
-####Numeric method:
+#### Numeric method:
 
 **Numeric permissions** in Linux refer to permissions represented by numbers instead of letters
 ![image](photos/num_per.png)
@@ -316,7 +316,7 @@ So the numeric permission for this file or directory would be 664.
 
 ---
 
-###Changing The Ownership Of File Or Dir
+### Changing The Ownership Of File Or Dir
 
 -To change ownership
 
