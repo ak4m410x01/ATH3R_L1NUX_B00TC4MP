@@ -2,6 +2,8 @@
 
  <!-- summary about ather team here -->
 
+---
+
 - ### Abdullah Kamal
 
 <br />
@@ -23,29 +25,18 @@
 
 ---
 
-<!--
-- ### Member 2
+- ### Abdelaziz Hasan
 
-<br />
-<div align="center">
-    <img src="./assets/images/Member_2.jpg" width="50%">
-</div>
-<br />
-<br />
-
-**_Summary About Member 2_**
+**_Hi, my name is `Abdelaziz Hasan`, and I am a `Cloud Security Engineer` with a diverse skill set that spans across networking, operating systems, and cloud security. I am deeply passionate about learning and implementing DevOps tools to optimize cloud-based solutions.I am excited about the prospect of contributing to innovative and secure cloud-based solutions and collaborating with talented individuals in the field._**
 
 <br />
 
 #### Contacts:
 
-- ##### LinkedIn: [username](linkedin.com/in/username)
-- ##### Github: [username](github.com/username)
-- ##### Telegram: [username](t.me/username)
+- ##### LinkedIn: [Abdelaziz Hasan](https://www.linkedin.com/in/abdelaziz-hassan-5645a9243/)
+- ##### Github: [Abdelaziz Hasan](https://github.com/AzHsn)s
 
 ---
-
--->
 
 - ### Mostafa Hazem Fathy
 
