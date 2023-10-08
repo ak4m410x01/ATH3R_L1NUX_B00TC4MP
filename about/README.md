@@ -47,29 +47,27 @@
 
 -->
 
-<!--
-- ### Member 3
+- ### Mostafa Hazem Fathy
 
 <br />
 <div align="center">
-    <img src="./assets/images/Member_3.jpg" width="50%">
+    <img src="./assets/images/Mostafa_Haziem.jpg" width="50%">
 </div>
 <br />
 <br />
 
-**_Summary About Member 3_**
+**_I am `Mostafa Hazem`. I'm a `cyber security engineer` with a passion for networks and information security, confident person who relishes challenges and working under pressure. My greatest strengths are my research and communication .I seek to develop myself in order to keep pace with the huge technological development._**
 
 <br />
 
 #### Contacts:
 
-- ##### LinkedIn: [username](linkedin.com/in/username)
-- ##### Github: [username](github.com/username)
-- ##### Telegram: [username](t.me/username)
+- ##### LinkedIn: [Mostafa Hazem](https://www.linkedin.com/in/mostafa-hazem-31628221a/)
+- ##### Github: [Mostafa Hazem](https://github.com/MostafaHazeim25)
+- ##### Telegram: [Mostafa Hazem](https://t.me/Mostafa_Hazeim_25/)
 
 ---
 
--->
 <!--
 - ### Member 4
 
