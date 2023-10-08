@@ -68,29 +68,27 @@
 
 ---
 
-<!--
-- ### Member 4
+- ### Mohamed Mamdouh
 
 <br />
 <div align="center">
-    <img src="./assets/images/Member_4.jpg" width="50%">
+    <img src="./assets/images/Mohamed_Mamdouh.jpg" width="50%">
 </div>
 <br />
 <br />
 
-**_Summary About Member 4_**
+**_I am `Mohamed Mamdouh`. I am `system administrator` and `Cloud & DevOps engineer` ,my passion lies in integrating development and operations processes to enhance software development efficiency and maximize business value. With a strong foundation in both development and operations, I strive to automate processes, improve productivity, and build scalable infrastructure through use of various DevOps tools and technologies._**
 
 <br />
 
 #### Contacts:
 
-- ##### LinkedIn: [username](linkedin.com/in/username)
-- ##### Github: [username](github.com/username)
-- ##### Telegram: [username](t.me/username)
+- ##### LinkedIn: [Mohamed Mamdouh](https://www.linkedin.com/in/mohamed-mamdouh-442ab223a/)
+- ##### Github: [Mohamed Mamdouh](https://github.com/MoHaMeDMaMdouHFaDel)
+- ##### Gmail: [Mohamed Mamdouh](00mansionmohamed00@gmail.com)
 
 ---
 
--->
 <!--
 - ### Member 5
 
