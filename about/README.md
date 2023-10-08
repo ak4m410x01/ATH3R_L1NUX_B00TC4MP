@@ -34,7 +34,8 @@
 #### Contacts:
 
 - ##### LinkedIn: [Abdelaziz Hasan](https://www.linkedin.com/in/abdelaziz-hassan-5645a9243/)
-- ##### Github: [Abdelaziz Hasan](https://github.com/AzHsn)s
+- ##### Github: [Abdelaziz Hasan](https://github.com/AzHsn)
+- ##### Telegram: [Abdelaziz Hasan](https://t.me/AZ_HnX0r)
 
 ---
 
