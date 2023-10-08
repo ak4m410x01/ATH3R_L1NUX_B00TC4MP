@@ -90,12 +90,19 @@ target: time sharing operating system
 
 #### Multics OS (Multi information and Computer Services):
 
-**1. Ring Protection (level0,1,2,3)**
-**2. File Hierarchy**
-**3. Dynamic Linking**
-**4. Multiprocessing**
-**5. Online reconfiguration**
-**6. ACL (Access Control List)**
+<p style="font-size: 20px; font-weight;">
+1. Ring Protection (level0,1,2,3)
+   <br />
+2. File Hierarchy
+   <br />
+3. Dynamic Linking
+   <br />
+4. Multiprocessing
+   <br />
+5. Online reconfiguration
+   <br />
+6. ACL (Access Control List)
+</p>
 
 **Multics OS not success**
 
