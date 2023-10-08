@@ -1,6 +1,26 @@
 ## ATHER TEAM
 
- <!-- summary about ather team here -->
+<br />
+<div align="center">
+    <img src="./assets/images/Ather_Team.jpg" width="50%">
+</div>
+<br />
+
+- **_A volunteer team from the students of Sohag University, Faculty of Computers and Artificial Intelligence, interested in information technology and programming in its various fields._**
+
+<br />
+
+- **_Family creation date: 3/15/2022_**
+
+<br />
+
+- **_Family tasks: Be a link between students who possess knowledge and skills to transfer it and would like to help others with it, and students who love to learn and benefit through the camps and sessions conducted by the family._**
+
+<br />
+
+#### Contacts:
+
+- ##### Facebook: [Ather Team](https://www.facebook.com/atharTeamSohag)
 
 ---
 
@@ -101,6 +121,30 @@
 - ##### Gmail: [Mariam Sameh](mariamsamehkhalaf@gmail.com)
 
 ---
+
+<!--
+- ### Member 6
+
+<br />
+<div align="center">
+    <img src="./assets/images/Member_6.jpg" width="50%">
+</div>
+<br />
+<br />
+
+**_Summary About Member 6_**
+
+<br />
+
+#### Contacts:
+
+- ##### LinkedIn: [username](linkedin.com/in/username)
+- ##### Github: [username](github.com/username)
+- ##### Telegram: [username](t.me/username)
+
+---
+
+-->
 
 <!--
 - ### Member 6
