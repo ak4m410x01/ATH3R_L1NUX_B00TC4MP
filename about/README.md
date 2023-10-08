@@ -81,29 +81,27 @@
 
 ---
 
-<!--
-- ### Member 5
+- ### Mariam Sameh
 
 <br />
 <div align="center">
-    <img src="./assets/images/Member_5.jpg" width="50%">
+    <img src="./assets/images/Mariam_Sameh.jpg" width="50%">
 </div>
 <br />
 <br />
 
-**_Summary About Member 5_**
+**_Summary :  i am Mariam Sameh, a network student with knowledge in networking , linux system administration, shell script and containers . I'm interested in the field of DevOps . Seek to know more about network security and clouding._**
 
 <br />
 
 #### Contacts:
 
-- ##### LinkedIn: [username](linkedin.com/in/username)
-- ##### Github: [username](github.com/username)
-- ##### Telegram: [username](t.me/username)
+- ##### LinkedIn: [Mariam Sameh](https://www.linkedin.com/in/mariam-sameh-8234691b5/)
+- ##### Github: [Mariam Sameh](https://github.com/mariamsamehkhalaf)
+- ##### Gmail: [Mariam Sameh](mariamsamehkhalaf@gmail.com)
 
 ---
 
--->
 <!--
 - ### Member 6
 
