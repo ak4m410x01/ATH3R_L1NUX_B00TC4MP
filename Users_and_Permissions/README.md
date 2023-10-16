@@ -6,8 +6,9 @@ Descibe and define linux users and groups administration and descibe how set lin
 ## Users and Permissions
 
 ## Users:
-**there are three types of users:**
+In Linux, a **user** refers to an individual who has access to a system and can perform tasks or execute commands on that system. Each user has a unique username and user ID (UID) that helps identify and differentiate them from other users on the system. Users can have their own personal files and directories, as well as access to specific resources based on their permissions and privileges assigned by the system administrator. The user management in Linux is essential for maintaining security, managing permissions, and ensuring proper usage of the system.
 
+**there are three types of users:**
 1. **Root user**:
    The superuser or administrator account that has complete control over the system. The root user has the highest level of privileges and can perform any task on the system and his id is 0 .
 
@@ -23,7 +24,7 @@ Descibe and define linux users and groups administration and descibe how set lin
 
 ### Adding And Deleting Users:
 
-**-adding user name:**
+**-adding user :**
 
 ```
 # useradd username
@@ -329,3 +330,33 @@ So the numeric permission for this file or directory would be 664.
 ```
 
 ![image](photos/chown.png)
+
+------------------------------
+
+## Sudo File
+**The sudo file**, also known as the sudoers file, is a configuration file in Linux that determines the privileges and permissions granted to users of the sudo command. The sudo command allows users to run programs with the security privileges of another user, typically the root user, without actually logging in as that user.
+
+The sudoers file specifies the rules for granting or denying administrative or superuser access to specific users or groups. It defines which users can run which commands with elevated privileges, preventing users from unintentionally or maliciously causing harm to the system.
+
+The sudoers file is located at /etc/sudoers and should be edited using the visudo command, which provides syntax checking and prevents multiple users from editing the file simultaneously, ensuring the integrity of the sudo configuration.
+
+**There is tow ways to give user sudo premission**
+ 1. Adding the user in wheel group
+ 2. Adding the user in sudo file
+
+-**Adding the user in wheel group**
+```
+#usermod -aG wheel username
+
+#gpasswd -d username wheel (To remove user from wheel group)
+```
+![image](photos/photo_5863879353165791339_y.jpg)
+![image](photos/photo_5863879353165791340_y.jpg)
+
+-**Adding the user in sudo file**
+```
+#visudo
+```
+![image](photos/photo_5863879353165791343_y.jpg)
+
+
