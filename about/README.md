@@ -33,7 +33,7 @@
 <br />
 <br />
 
-**_Hi, My name `Abdullah Kamal`. I'm `Backend Developer` and `Penetration Tester`, I have knowledge in many fields like Web Development, Database, Networking, System Administration, Web Penetration Testing and Network Penetration Testing. I participate in serveral Compitions like ECPC for Problem Solvers, ICMTC and Cybertalents for CTF Players. Interesting in Web Development, bug hunting and fix vulnerabilities._**
+**_Hi,... My name is `Abdullah Kamal`, I'm an `IT Engineer` specializing in `Backend Development` with Python Web Frameworks Like Django and Flask, I have knowledge in Programming, Web Development, Database, Networking, Linux System Administration, and Web Penetration Testing. I Participated in competitions like ECPC for Problem Solvers, ICMTC, and Cybertalents for CTF Players. Passionate about Clean Code, Problem-Solving, and continuously learning new things. Now I am learning Penetration Testing and Bug Hunting._**
 
 <br />
 
@@ -47,7 +47,7 @@
 
 - ### Abdelaziz Hasan
 
-**_Hi, my name is `Abdelaziz Hasan`, and I am a `Cloud Security Engineer` with a diverse skill set that spans across networking, operating systems, and cloud security. I am deeply passionate about learning and implementing DevOps tools to optimize cloud-based solutions.I am excited about the prospect of contributing to innovative and secure cloud-based solutions and collaborating with talented individuals in the field._**
+**_Hi, my name is `Abdelaziz Hasan`, and I am a `Cloud Security Engineer` with a diverse skill set that spans networking, operating systems, and cloud security. I am passionate about learning and implementing DevOps tools to optimize cloud-based solutions. I am excited about the prospect of contributing to innovative and secure cloud-based solutions and collaborating with talented individuals in the field._**
 
 <br />
 
@@ -68,7 +68,7 @@
 <br />
 <br />
 
-**_I am `Mostafa Hazem`. I'm a `cyber security engineer` with a passion for networks and information security, confident person who relishes challenges and working under pressure. My greatest strengths are my research and communication .I seek to develop myself in order to keep pace with the huge technological development._**
+**_I am `Mostafa Hazem`. I'm a `cyber security engineer` passionate about networks and information security, a confident person who relishes challenges and works under pressure. My greatest strengths are my research and communication. I seek to develop myself in order to keep pace with the huge technological development._**
 
 <br />
 
@@ -89,7 +89,7 @@
 <br />
 <br />
 
-**_I am `Mohamed Mamdouh`. I am `system administrator` and `Cloud & DevOps engineer` ,my passion lies in integrating development and operations processes to enhance software development efficiency and maximize business value. With a strong foundation in both development and operations, I strive to automate processes, improve productivity, and build scalable infrastructure through use of various DevOps tools and technologies._**
+**_I am `Mohamed Mamdouh`. I am a `system administrator` and `Cloud & DevOps engineer`, my passion lies in integrating development and operations processes to enhance software development efficiency and maximize business value. With a strong foundation in both development and operations, I strive to automate processes, improve productivity, and build scalable infrastructure through the use of various DevOps tools and technologies._**
 
 <br />
 
@@ -110,7 +110,7 @@
 <br />
 <br />
 
-**_Summary :  i am Mariam Sameh, a network student with knowledge in networking , linux system administration, shell script and containers . I'm interested in the field of DevOps . Seek to know more about network security and clouding._**
+**_I am Mariam Sameh, a network student with knowledge in networking, Linux system administration, shell script, and containers. I'm interested in the field of DevOps. Seek to know more about network security and clouding._**
 
 <br />
 
