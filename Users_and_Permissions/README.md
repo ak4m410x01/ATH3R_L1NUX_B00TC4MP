@@ -90,7 +90,7 @@ In Linux, a **user** refers to an individual who has access to a system and can 
 
 - group information stored in `/etc/group`
 - group passwords stord in `/etc/gshadow`
-  ###Adding And Deleting Group
+### Adding And Deleting Group
   **-add group**
 
 ```
